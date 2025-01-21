@@ -1,3 +1,3 @@
 ECHO is on (this is an edit).
 
-A new line
+A new line of purple
